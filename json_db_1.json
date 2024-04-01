@@ -1,0 +1,14 @@
+{
+    "6kg ": {
+        "total": 60,
+        "stock_quantity": 60,
+        "order": null,
+        "total_order": 0
+    },
+    "800": {
+        "total": 300,
+        "stock_quantity": 300,
+        "order": null,
+        "total_order": 0
+    }
+}

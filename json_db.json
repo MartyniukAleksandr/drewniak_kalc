@@ -1,0 +1,32 @@
+{
+    "6kg n": {
+        "total": 300,
+        "stock_quantity": 600,
+        "order": null,
+        "total_order": 0
+    },
+    "marchew l": {
+        "total": 90,
+        "stock_quantity": 20,
+        "order": "marchew l",
+        "total_order": 30
+    },
+    "6kg y": {
+        "total": 50,
+        "stock_quantity": 50,
+        "order": null,
+        "total_order": 0
+    },
+    "6kg l": {
+        "total": 200,
+        "stock_quantity": 200,
+        "order": null,
+        "total_order": 0
+    },
+    "14kg n3": {
+        "total": 400,
+        "stock_quantity": 400,
+        "order": null,
+        "total_order": 0
+    }
+}
